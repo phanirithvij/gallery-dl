@@ -121,6 +121,7 @@ modules = [
     "wikiart",
     "xhamster",
     "xvideos",
+    "alphacoders",
     "yuki",
     "moebooru",
     "foolfuuka",
